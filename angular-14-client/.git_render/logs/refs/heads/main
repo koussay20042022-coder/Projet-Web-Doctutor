@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 c26d7d162d195cdf4708ae144407739effa9b577 koussay <koussay20042022@gmail.com> 1794426053 +0100	commit (initial): Initial commit - frontend Angular
+c26d7d162d195cdf4708ae144407739effa9b577 f1dd337a6e84e156c2330ddab578154b17496df0 koussay <koussay20042022@gmail.com> 1794427400 +0100	commit: Fix: augmenter le budget de taille Angular pour la production
+f1dd337a6e84e156c2330ddab578154b17496df0 eba841211853def49f6b15e58c07aedb0b68fd54 koussay <koussay20042022@gmail.com> 1794428086 +0100	commit: Fix: corriger outputPath dans angular.json
+eba841211853def49f6b15e58c07aedb0b68fd54 ba8e27cd16d1d36c4784f6df701625a455e59ea8 koussay <koussay20042022@gmail.com> 1794428917 +0100	commit: Fix: pointer vers l API backend Render en production
