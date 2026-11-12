@@ -1,0 +1,6 @@
+node_modules/
+.angular/
+dist/
+lancer.bat
+Lancer-Backend.bat
+.env
